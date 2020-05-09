@@ -1,3 +1,7 @@
-# sudoku_solver
+# Description:
+Python program that solves sudoku using a backtracking algorithm
 
-To use it, you must input a valid board on the "board_example" variable.
+
+# How to use:
+For it to work, it's necessary to put a valid input in "board_example" variable (line 104)
+Example is already provided inside file
